@@ -1,7 +1,7 @@
 # Expo-Location
 
-Gitting Permission (current location)
+Getting Permission (current location)
 
 Show current locaton with marker
 
-Also other location with marker (just you give object of latitude and longitude )
+Also others location with marker (just you give object of latitude and longitude )
